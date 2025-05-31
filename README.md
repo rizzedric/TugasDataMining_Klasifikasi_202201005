@@ -1,0 +1,2 @@
+# TugasDataMining_Klasifikasi_202201005
+DataMining_Vigoriz_202201005
